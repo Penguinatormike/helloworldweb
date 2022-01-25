@@ -2,7 +2,7 @@
 <html>
 <body>
 
-	<h2> This is a Test page for demonstrating CI and CD with Jenkins for DevOps Training</h2>
+	<h2> This is a Test page for demonstrating CI and CD with Jenkins for DevOps Training. TESTTTTT</h2>
 
 	<h1>!!! Welcome to the DevOps Training conducted on 11th January 2022!!</h1>
 
